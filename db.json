@@ -1,15 +1,125 @@
 {
   "airlines": [
     {
-      "site": "https://subus.cl/",
-      "code": "SUBUS",
-      "alliance": "none",
-      "phone": "",
-      "name": "SuBús",
-      "usName": null,
-      "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
-      "defaultName": null,
-      "logoURL": "/rimg/provider-logos/airlines/v/SUBUS.png?crop=false&width=108&height=92&fallback=default1.png&_v=cf7f153576dad48e814135373e3baf34"
-      }
+    "site": "https://subus.cl/",
+    "code": "SUBUS",
+    "alliance": "none",
+    "phone": "",
+    "name": "SuBús",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/SUBUS.png?crop=false&width=108&height=92&fallback=default1.png&_v=cf7f153576dad48e814135373e3baf34"
+    },
+    {
+    "site": "sitasudtrasporti.it",
+    "code": "SITASUD",
+    "alliance": "none",
+    "phone": "",
+    "name": "SITA Sud",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/SITASUD.png?crop=false&width=108&height=92&fallback=default3.png&_v=8e634b2affd75b43a2cb1f32d857ccc2"
+    },
+    {
+    "site": "https://www.avianca.com.ar",
+    "code": "A0",
+    "alliance": "none",
+    "phone": "0810-333-8222",
+    "name": "Avianca Argentina",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A0.png?crop=false&width=108&height=92&fallback=default3.png&_v=67161f869e5c5d2f83dc8b38b95a7551"
+    },
+    {
+    "site": "https://www.apg-ga.com",
+    "code": "A1",
+    "alliance": "none",
+    "phone": "",
+    "name": "A.P.G.",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A1.png?crop=false&width=108&height=92&fallback=default1.png&_v=prod-d3f2434a7df91dfcd2c9c08fca4af080ba8c2638"
+    },
+    {
+    "site": "https://www.astra-airlines.gr",
+    "code": "A2",
+    "alliance": "none",
+    "phone": "+30 2310 489 391",
+    "name": "Astra Airlines",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A2.png?crop=false&width=108&height=92&fallback=default2.png&_v=09b01c8cc1ae1a9b892fee1ea72a0420"
+    },
+    {
+    "site": "https://en.aegeanair.com/Default.aspx",
+    "code": "A3",
+    "alliance": "SA",
+    "phone": "+30 210 6261 000",
+    "name": "Aegean Airlines",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A3.png?crop=false&width=108&height=92&fallback=default3.png&_v=13319c6f67071810dfacc55d92d6e44d"
+    },
+    {
+    "site": "https://azimuth.aero",
+    "code": "A4",
+    "alliance": "none",
+    "phone": "+8 863 302 02 20",
+    "name": "AZIMUTH",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A4.png?crop=false&width=108&height=92&fallback=default1.png&_v=60d398ec06c33f03200be9f094d0973e"
+    },
+    {
+    "site": "https://www.busnortechile.cl/portada.php",
+    "code": "BUSNORTE",
+    "alliance": "none",
+    "phone": "",
+    "name": "Bus Norte",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/BUSNORTE.png?crop=false&width=108&height=92&fallback=default2.png&_v=20186f6266ed19aac16e60c4d9b64e0a"
+    },
+    {
+    "site": "https://www.hop.com",
+    "code": "A5",
+    "alliance": "none",
+    "phone": "+33 (0)1 72 95 33 33",
+    "name": "HOP!",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A5.png?crop=false&width=108&height=92&fallback=default2.png&_v=b9108cba91b45792b8ee55ee0713982b"
+    },
+    {
+    "site": "https://www.redair.cn",
+    "code": "A6",
+    "alliance": "none",
+    "phone": "400-833-7777",
+    "name": "Air Travel",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A6.png?crop=false&width=108&height=92&fallback=default3.png&_v=a00b81557543e9c8247dd303d5649e79"
+    },
+    {
+    "site": "https://www.calafiaairlines.com/Home/Index?culture=en-US",
+    "code": "A7",
+    "alliance": "none",
+    "phone": "+33 2451 0505",
+    "name": "Calafia Airlines",
+    "usName": null,
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": null,
+    "logoURL": "/rimg/provider-logos/airlines/v/A7.png?crop=false&width=108&height=92&fallback=default1.png&_v=201d0b3db077b55b6327f543d88b4ec1"
+    }
   ]
 }
